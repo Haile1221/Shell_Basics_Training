@@ -1,0 +1,2 @@
+#!/bin/bash
+mv pwd file2
